@@ -1,0 +1,21 @@
+# Visentrix Build Playbook
+
+The reusable workflow proven on OSINT Sentinel Workstation — extracted
+for every Visentrix product going forward.
+
+Proven on: v0.1.1, 22 Sep 2026 — shipped, signed, hash-verified release
+with a clean private/public split and a working license system.
+
+## The documents
+
+| Doc | What it encodes |
+|---|---|
+| [`RELEASE-PIPELINE.md`](RELEASE-PIPELINE.md) | The audit→verify→package→publish gate every release must pass |
+| [`REPO-MODEL.md`](REPO-MODEL.md) | The three-tier repo split (DEV / OPS / OP) and the stability gate |
+| [`AUDIT-CONVENTIONS.md`](AUDIT-CONVENTIONS.md) | How to write honest audits — verified vs claimed, gap tables, evidence |
+| [`DOC-CONVENTIONS.md`](DOC-CONVENTIONS.md) | Living vs historical docs, drift prevention, two-audience rule |
+
+## The one-sentence philosophy
+
+**Never claim what you haven't verified, never leak what you haven't
+sanitized, never publish what isn't proven.**
