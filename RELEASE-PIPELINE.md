@@ -1,6 +1,6 @@
 # Release Pipeline — the gate
 
-Every Visentrix release runs this. No shortcuts — the pipeline is the
+Every Sentinal release runs this. No shortcuts — the pipeline is the
 product's credibility.
 
 ```

@@ -1,6 +1,6 @@
 # Repo Model — the three-tier split
 
-Every Visentrix product gets three repos. Same shape every time — no
+Every Sentinal product gets three repos. Same shape every time — no
 reinventing the boundary per project.
 
 | Tier | Naming | Audience | Contains |

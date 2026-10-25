@@ -1,6 +1,6 @@
 # Audit Conventions
 
-How Visentrix writes audits — the format that made the Sentinel audit
+How Sentinal Systems UK writes audits — the format that made the Sentinel audit
 trustworthy instead of decorative.
 
 ## The structure
